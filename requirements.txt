@@ -1,0 +1,13 @@
+sentence-transformers
+uvicorn
+ctransformers
+fastapi
+ipykernel
+langchain
+python-box
+streamlit
+langchain-community
+langchain-openai
+openai
+pypdf2
+dotenv
